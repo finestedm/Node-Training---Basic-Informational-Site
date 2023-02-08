@@ -2,11 +2,11 @@
   "name": "node-training---basic-informational-site",
   "version": "1.0.0",
   "description": "",
-  "main": "./server/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js",
-    "start": "node ./server/index.js"
+    "dev": "index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
